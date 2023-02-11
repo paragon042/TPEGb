@@ -10005,9 +10005,9 @@ a {
   color: #bbbbbb;
 }
 .cid-tvwKhiiIXD {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #232323;
 }
 .cid-tvwKhiiIXD .mbr-fallback-image.disabled {
   display: none;
@@ -10021,13 +10021,8 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tvwKhiiIXD .row {
-  margin-left: 0;
-  margin-right: 0;
-}
 .cid-tvwKhiiIXD .item {
-  padding-left: 0;
-  padding-right: 0;
+  padding-bottom: 2rem;
 }
 .cid-tvwKhiiIXD .item-wrapper {
   height: 100%;
