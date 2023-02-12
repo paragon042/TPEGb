@@ -2276,13 +2276,8 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tvDngJAAPn .row {
-  margin-left: 0;
-  margin-right: 0;
-}
 .cid-tvDngJAAPn .item {
-  padding-left: 0;
-  padding-right: 0;
+  padding-bottom: 2rem;
 }
 .cid-tvDngJAAPn .item-wrapper {
   height: 100%;
