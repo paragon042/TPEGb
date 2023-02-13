@@ -6843,7 +6843,7 @@
     "Projects.html": {
       "settings": {
         "title": "Projects",
-        "order": "12"
+        "order": "11"
       },
       "components": [
         {
@@ -7391,7 +7391,7 @@
     "About.html": {
       "settings": {
         "title": "About",
-        "order": "11"
+        "order": "12"
       },
       "components": [
         {
