@@ -4,7 +4,7 @@ body {
 }
 
 hr {
-    width: 500px;
+    width: 375px;
 }
 
 #title {
@@ -20,6 +20,10 @@ hr {
     margin-top: 3px;
     display: flex;
     flex-wrap: wrap;
+}
+
+#answer {
+    color: white;
 }
 
 .tile {
