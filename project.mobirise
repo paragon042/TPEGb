@@ -45,23 +45,18 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "5uklmmigwu",
+    "mbrsiteDomain": "qqybqycpg7",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "uniqCompNum": 57,
     "versionPublish": "5.8.0",
     "screenshot": "screenshot.png",
     "usedWebp": true,
     "cookiesAlert": false,
-    "google-analytics": "<div id='splash'>\n<img alt='' class='logo' src='assets/images/10-final-nato.webp'/>\n</div>\n<style>\n#splash {\n\tposition:absolute;\n\ttop: 0;\n\tleft: 0;\n\tbackground:#6236FF !important;\n\theight: 100vh;\n\twidth: 100%;\n\tz-index: 9999;\n\tdisplay: flex;\n\tflex-direction: column;\n\talign-items: center;\n\tjustify-content: center;\n\topacity: 1;\n\ttransition: opacity 1s;\n}\n\n#splash img {\n\twidth: 150px;\n}\n\n#splash.fade {\n\topacity: 0;\n}\n</style>\n<script>\nsetTimeout(() => {\ndocument.getElementById('splash').classList.toggle('fade'); }, 2000);\n//]]></script>"
+    "google-analytics": "",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
